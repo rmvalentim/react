@@ -1,2 +1,2 @@
 # React
-Primeiros passos com React, baseado nos tutoriais do canal (https://youtube.com/user/VPlusPlus).
+Montando componentes, lidando com props e propTypes.
